@@ -5,6 +5,7 @@ dependencies:
   - appnope=0.1.0=py36hf537a9a_0
   - astroid=2.3.3=py36_0
   - attrs=19.3.0=py_0
+  - autopep8=1.4.4=py_0
   - backcall=0.1.0=py36_0
   - blas=1.0=mkl
   - bleach=3.1.0=py36_0
@@ -74,6 +75,7 @@ dependencies:
   - prometheus_client=0.7.1=py_0
   - prompt_toolkit=3.0.2=py_0
   - ptyprocess=0.6.0=py36_0
+  - pycodestyle=2.5.0=py36_0
   - pygments=2.5.2=py_0
   - pylint=2.4.4=py36_0
   - pyparsing=2.4.5=py_0

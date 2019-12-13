@@ -1,4 +1,5 @@
 {
     "python.linting.enabled": true,
-    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/bin/python"
+    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/housing/bin/python",
+    "python.linting.pylintEnabled": true
 }
