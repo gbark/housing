@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - appnope=0.1.0=py36hf537a9a_0
+  - astroid=2.3.3=py36_0
   - attrs=19.3.0=py_0
   - backcall=0.1.0=py36_0
   - blas=1.0=mkl
@@ -25,6 +26,7 @@ dependencies:
   - ipython=7.10.1=py36h39e3cac_0
   - ipython_genutils=0.2.0=py36_0
   - ipywidgets=7.5.1=py_0
+  - isort=4.3.21=py36_0
   - jedi=0.15.1=py36_0
   - jinja2=2.10.3=py_0
   - joblib=0.14.0=py_0
@@ -35,6 +37,7 @@ dependencies:
   - jupyter_console=5.2.0=py36_1
   - jupyter_core=4.6.1=py36_0
   - kiwisolver=1.1.0=py36h0a44026_0
+  - lazy-object-proxy=1.4.3=py36h1de35cc_0
   - libcxx=4.0.1=hcfea43d_1
   - libcxxabi=4.0.1=hcfea43d_1
   - libedit=3.1.20181209=hb402a30_0
@@ -46,6 +49,7 @@ dependencies:
   - llvm-openmp=4.0.1=hcfea43d_1
   - markupsafe=1.1.1=py36h1de35cc_0
   - matplotlib=3.1.1=py36h54f8f79_0
+  - mccabe=0.6.1=py36_1
   - mistune=0.8.4=py36h1de35cc_0
   - mkl=2019.4=233
   - mkl-service=2.3.0=py36hfbe908c_0
@@ -71,6 +75,7 @@ dependencies:
   - prompt_toolkit=3.0.2=py_0
   - ptyprocess=0.6.0=py36_0
   - pygments=2.5.2=py_0
+  - pylint=2.4.4=py36_0
   - pyparsing=2.4.5=py_0
   - pyqt=5.9.2=py36h655552a_2
   - pyrsistent=0.15.6=py36h1de35cc_0
@@ -93,10 +98,12 @@ dependencies:
   - tk=8.6.8=ha441bb4_0
   - tornado=6.0.3=py36h1de35cc_0
   - traitlets=4.3.3=py36_0
+  - typed-ast=1.4.0=py36h1de35cc_0
   - wcwidth=0.1.7=py36_0
   - webencodings=0.5.1=py36_1
   - wheel=0.33.6=py36_0
   - widgetsnbextension=3.5.1=py36_0
+  - wrapt=1.11.2=py36h1de35cc_0
   - xz=5.2.4=h1de35cc_4
   - zeromq=4.3.1=h0a44026_3
   - zipp=0.6.0=py_0
